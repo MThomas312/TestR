@@ -6,3 +6,5 @@ A test repository for committing from Rstudio
 EmilyCraven
 
 Charlotte Doidge
+
+Naomi Prosser
