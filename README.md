@@ -3,7 +3,7 @@ A test repository for committing from Rstudio
 
 #Add your name here
 
-Matt! - I'm in conflict!
+Matt! - Conflict resolved
 
 EmilyCraven
 
